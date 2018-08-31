@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+npm-debug.log
+yarn-error.log
+.idea
+dist/
+第一周作业.jpg
+第一周课程总结(1).txt
