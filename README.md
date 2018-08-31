@@ -1,0 +1,1 @@
+### 安装```jsnpm install```### 开发时运行并打包```jsnpm run start```### 单元测试```jsnpm run unit ```### 端对端测试 两个命令```jsnpm run servernpm run e2e ```

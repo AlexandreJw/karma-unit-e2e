@@ -1,0 +1,30 @@
+1.E2E测试 页面功能
+selenium-webdriver 
+nightwatch
+f2etest
+
+2.接口测试 测API
+2-1 全局执行命令行
+2-2 把你需要的那个包文件写到 js 文件里 node执行它
+2-3 mocha done要记住
+
+3.单元测试 
+npm install karma -g 全局 
+npm install karma -save-dev package.json里面运行 
+karma 集成单元测试环境
+karma init 初始化配置环境
+karma.conf.js jasmine
+jasmine-core karma-jasmine
+phantom karma-phantomjs-launcher
+karma-coverage 覆盖率检查
+karma start
+
+4.页面UI自动化测试
+npm install -g yarn
+sudo yarn global add backstopjs
+backstop init
+backstop test 注意图片的格式
+
+5.性能测试  Benchmark.js
+
+#常用 一个东西 1.熟悉 2.懂 -> 扩展
