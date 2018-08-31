@@ -10,7 +10,7 @@
     "server": "http-server",
     "e2e": "node ./test/e2e/index.spec.js"
   },
-  "author": "",
+  "author": "", 
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
